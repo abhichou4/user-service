@@ -2,6 +2,8 @@
 
 A RestAPI service that lets you add users to MySQL database.
 
+![user-service-demo](https://user-images.githubusercontent.com/39547012/181613672-7a67a318-0673-47c9-ba38-b65b0048c656.gif)
+
 # Pre-requisites
 * Java 1.8
 * Maven
