@@ -16,7 +16,7 @@ Before running, create an empty db in MySQL where the users will be added.
 sudo mysql --password
 mysql> create database users; -- Creates the new database
 mysql> create user 'abhichou4'@'%' identified by 'abcd1234';
-mysql> grant all on db_example.* to 'sample_username'@'%';
+mysql> grant all on users.* to 'abhichou4'@'%';
 ```
 
 Schema will be created automatically when you first run the app!
